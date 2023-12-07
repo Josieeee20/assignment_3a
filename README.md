@@ -1,5 +1,6 @@
 # Introduction of the dataset
-## The Academy Awards, also officially and popularly known as the Oscars, are awards for artistic and technical merit in the film industry. The various category winners are awarded a copy of a golden statuette, officially called the "Academy Award of Merit", although more commonly referred to by its nickname "Oscar". The statuette depicts a knight rendered in Art Deco style.This file contains a scrape of The Academy Awards Database, recorded of past Academy Award winners and nominees between 1927 and 2023.
+The Academy Awards, also officially and popularly known as the Oscars, are awards for artistic and technical merit in the film industry. The various category winners are awarded a copy of a golden statuette, officially called the "Academy Award of Merit", although more commonly referred to by its nickname "Oscar". The statuette depicts a knight rendered in Art Deco style.This file contains a scrape of The Academy Awards Database, recorded of past Academy Award winners and nominees between 1927 and 2023.
+
 | Column         | Description                                     |
 | -------------- | ----------------------------------------------- |
 | year_film      | The year in which the film was produced or released. |
@@ -9,6 +10,7 @@
 | name           | The name of the nominee.                      |
 | film           | The name of the film associated with the nominee. |
 | winner         | A boolean indicator representing whether the nominee was a winner (True) or not (False). |
+
 
 # The exploring question
 1. What's the data looks like?
